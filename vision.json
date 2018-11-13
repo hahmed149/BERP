@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silicon-badge-222321",
+  "private_key_id": "c3d09350353f301a3fd3b2566b97dd96be6bd9b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDRHGYWWYdVZLxb\nOie5YKb7mhtVIdoF9HfLIoz4k4yOT62q9rQzNCVd802Fwjm4Her8eG6nufdBqYA5\nHAwV3eDJkE0VLj02NS5+8WvxUhALhOec0wxK+EqJg1Q/pcSs4o2gfEINXZkwF23q\nOtVHo3GJSx4sZL9OnqUi+BpRDwrphTybHPgZ1gLcaD2t7gWUBUE9lXysDxnKOc2J\ntUUsWxwY2AsDgfbZfAOlDKLuj2HwYrigAju5rCq5gumhZaPNKSbpoi9hOyItmnEd\nKByR5OQ/2d5Z3T1w86CNqAcMYdDG3GOZVWI96tagFACJSqWPD65tR3I2P+nkfYql\nYTnkcsrTAgMBAAECggEAK3tPwQr5yKhrQD79/p6Z6kx3rYKd/soAVOWI0bGAsyDf\nWGL3QoRv1rLeZldmQCI8eCYkwEy7nNQ9nOJ3ot5hvRf751EXmluBoRTbYLEzM+n9\nbU83SamKekCsNpXmKRrs3zenVnclgOoGSYPVUJGsbKOJkSqb2yHC7dwQQNWza64Q\nEvXguFIb+o+Tfyqo0UPUVXdmeBkRmVo3xuWmrXiu/41CeSDEDwRtjGdGRhgx8mcB\nJKVSpKzRiNMHVhuRPI5Wd3hASO+KeDjBTj02+z351gh0gEn8hyQ0u8niXPTdtiWE\nXhnbKawgr+ctpJw8VhrkXJNZD5fUT6WTdMIqtu1wqQKBgQDuACRYTdk4WJAflPRz\n+v0uuHEDnYgcCmzgVmvTR2DuubJF6CPS9gzZF4gPfzujdjLSNs7An82AJipbkCoa\nLGzsxtB309MyVPMuf+eYLbpmp1Myhx5FN/JRT7mtI1mnuRuf91ReQwdq1xqmI8v2\nUJnhFlMUmSoz/6Zzhv+p4RzmawKBgQDg7O70pbvhowb1T0C1u7KPBm3497FZUiJJ\nIA+tjhZbKpl6ojvrN2y2pi/GTv9vCnE1Bo8QeW689FzYLHkx1zipgBXY7kblGJXy\n5d3+AnthM4eNr8bkI3aNbnrm3Hgs547EJa+5vTDxNXQk2iyVVRLb+WYLOKjLMnk8\nXTdohie3OQKBgQCA+0i3JnFrTOvGgdY9KK+fa0usFuqVr7yzk4JZ/Rv2JGMN6bHI\neZoa6NrO8zgh7UO7kwJXeANJyOU5vBZlGuBpLZH67qxNYaZs89pSKa4URegbwQhR\noPFMybUptLe44uOqvMJXV2Ikr7B8i3fU5HeQeaXKyvsJNSpC/818hkhAQwKBgQDB\n2hJcUdaqshoWJDbuKhXLhMwVLkzwYYRhJ7u7ZeFIs19RvS8NG1ib1oEIVh958TL+\nc2er2Cyjt6upODM/zHDuTREHRN1fJ6BcltaLzFHPxVyHtb4h85qCbHyKKet9MBjw\nXlakKzVaPiqadFrGXWsCoWDcPPnlHtw0NVbCxBTIqQKBgQCKuyR5729xpWvFgq1r\nBg29pCSOgGACCa2DEo0DhPpoj8bpxkf2no10KITnDUWvLJkJnAEv5v1olf9NQnDW\n7xpL+z4+Vj2yqmDtsFB5YyeM1KU0eRPXAT2gNlSpoXQuJKHQbMBAIJ6WFnbgO/Tg\n1J07p3zqUQavL50vPGTEESZBRw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "berp-924@silicon-badge-222321.iam.gserviceaccount.com",
+  "client_id": "106910067859965837613",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/berp-924%40silicon-badge-222321.iam.gserviceaccount.com"
+}
